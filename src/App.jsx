@@ -5,7 +5,7 @@ import Header from "./components/Header";
 import Home from "./components/Home";
 import Course from "./components/Course";
 import ScrollSpy from "react-ui-scrollspy";
-import Sidebar from "./components/Sidebar";
+
 import Req from "./components/Req";
 import Enroll from "./components/Enroll";
 import Enroll1 from "./components/Enroll1";
